@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "baseHref": "https://basava44.github.io/otpcode",
+            "baseHref": "https://basava44.github.io/otpCode",
             "outputPath": "dist/otp-test",
             "index": "src/index.html",
             "main": "src/main.ts",
